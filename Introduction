@@ -1,0 +1,5 @@
+# Night-Scalping-EA
+Compilation of backtesting and statistics of the mean-reversion strategy
+Mean-reversion is a interesting strategy in forex and it can be seen in many other markets too. The key principle is that prices of assets tend to float around a mean value and any fluctations are met by reversions. This idea is well made use of during low volatality hours such as Asian trading session, hence the name night scalping. 
+
+The repository contains my progress and insights in perfecting this strategy to real world trading. To track my portfolios, please visit https://www.mql5.com/en/users/shanmugamudhaya
